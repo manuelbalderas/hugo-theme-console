@@ -201,8 +201,6 @@ figure {
 
 .image-grid {
     display: grid;
-    grid-template-rows: auto;
-    display: grid;
     grid-gap: 1em;
     grid-template-rows: auto;
     grid-template-columns: repeat(
